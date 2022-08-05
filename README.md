@@ -1,6 +1,5 @@
-# Netflix-EDA
- An Analysis on Neflix Movies.
-
+## Analysis on Netflix movies
+.
 
 ## Data Science Project
 Dataset from kaggle  
@@ -12,16 +11,12 @@ Dataset from kaggle
 - Numpy for wrangling
 - Matplotlib for visualisation
 
-## Analysis on Netflix movies
+
 
 ## Steps 
 - Loading CSV file into a dataframe and inspecting it
-- Determining the correlation between the numerical columns 
-- Bulding a heatmap of the correlation matrix to aid visualisation
-- Subsetting data into Urban and Rural areas and visualising the various sources 
-- Subsetting data into the geo-political zones and States
-- The best and worst states were visualised
-- All the plots were customised with suitable colors, fontsizes, labels and titles. 
+- Data Wrangling and Cleaning 
+- Visualisations 
 
 ## Contributions
 To make a contribution, create a new branch and make a pull request.
