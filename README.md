@@ -15,8 +15,9 @@ Dataset from kaggle
 
 ## Steps 
 - Loading CSV file into a dataframe and inspecting it
-- Data Wrangling and Cleaning 
-- Visualisations 
+- Data Exploration
+- Data Cleaning and Wrangling 
+- Data Visualisations
 
 ## Contributions
 To make a contribution, create a new branch and make a pull request.
