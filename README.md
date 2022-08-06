@@ -8,7 +8,7 @@ Dataset from kaggle
 
 ## Libraries Used
 - Pandas for data analysis and wrangling 
-- Numpy for wrangling
+- Numpy for mathematical inputs
 - Matplotlib for visualisation
 
 
