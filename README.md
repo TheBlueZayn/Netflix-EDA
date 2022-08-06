@@ -1,5 +1,5 @@
 ## Analysis on Netflix movies
-.
+An analysis on the types of Netflix movies, countries, release dates, added dates, ratings and other important information. 
 
 ## Data Science Project
 Dataset from kaggle  
